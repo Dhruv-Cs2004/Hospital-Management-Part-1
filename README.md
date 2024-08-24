@@ -51,4 +51,4 @@ Ensure the Icons folder is correctly placed relative to the mainpage.py and logi
 
 # 🐞 Issues
 
-If you encounter any issues or have suggestions for improvement, please report them  here.
+If you encounter any issues or have suggestions for improvement, please report them [ here](https://github.com/Dhruv-Cs2004/Hospital-Management-Part-1/issues).
