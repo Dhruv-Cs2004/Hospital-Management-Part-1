@@ -45,7 +45,7 @@ Ensure the Icons folder is correctly placed relative to the mainpage.py and logi
 
 # 👥 Authors
 
-@Dhruv-Cs2004 - Main developer of the project
+[@Dhruv-Cs2004](https://github.com/Dhruv-Cs2004) - Main developer of the project
 
 
 
